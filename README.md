@@ -9,10 +9,12 @@ This is my submission for the subject *Internet Technologies* as my midterm exam
 * Contains a gallery browser created purely in HTML/CSS (no javascript)
 
 
-# Technologies
+#  Technologies
+<ul>
 
-- HTML5
-- CSS3
+<li> HTML5</li>
+<li> CSS3</li>
+</ul>
 
 # Credits
 
