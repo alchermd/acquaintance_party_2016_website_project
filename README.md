@@ -9,15 +9,12 @@ This is my submission for the subject *Internet Technologies* as my midterm exam
 * Contains a gallery browser created purely in HTML/CSS (no javascript)
 
 
-
-
-<!-- -->
 # Technologies
 
 - HTML5
 - CSS3
 
-## Credits
+# Credits
 
 All photos are owned by their respective authors.
 
