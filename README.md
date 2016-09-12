@@ -11,7 +11,7 @@ This is my submission for the subject *Internet Technologies* as my midterm exam
 
 
 
-
+<!-- -->
 # Technologies
 
 - HTML5
