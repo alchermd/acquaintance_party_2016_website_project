@@ -3,11 +3,11 @@
 This is my submission for the subject *Internet Technologies* as my midterm examination.
 
 # Features
-<ul>
-<li> Uses <table> as framework </li>
-<li> Has full-width responsive background </li>
-<li> Contains a gallery browser created purely in HTML/CSS (no javascript) </li>
-</ul>
+
+* Uses `<table>` as framework
+* Has full-width responsive background
+* Contains a gallery browser created purely in HTML/CSS (no javascript)
+
 #  Technologies
 <ul>
 
