@@ -8,7 +8,6 @@ This is my submission for the subject *Internet Technologies* as my midterm exam
 * Has full-width responsive background
 * Contains a gallery browser created purely in HTML/CSS (no javascript)
 
-
 #  Technologies
 <ul>
 
