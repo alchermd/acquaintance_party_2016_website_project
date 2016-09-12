@@ -4,15 +4,16 @@ This is my submission for the subject *Internet Technologies* as my midterm exam
 
 # Features
 
-* Uses <table> as framework
+* Uses `<table>` as framework
 * Has full-width responsive background
 * Contains a gallery browser created purely in HTML/CSS (no javascript)
 
+#  Technologies
+<ul>
 
-# Technologies
-
-- HTML5
-- CSS3
+<li> HTML5</li>
+<li> CSS3</li>
+</ul>
 
 # Credits
 
