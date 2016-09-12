@@ -10,8 +10,8 @@ This is my submission for the subject *Internet Technologies* as my midterm exam
 
 # Technologies
 
-* HTML5
-* CSS3
+- HTML5
+- CSS3
 
 ## Credits
 
